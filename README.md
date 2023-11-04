@@ -1,0 +1,1 @@
+It is a repo was created to examine the properties and structure of React-Query. In this project was handled multiple query methods in React Query such as dependent queries, dynamic queries, parallel queries etc. Codevulation channel on YouTube was followed while preparing this project. Thanks to Vishwas.
